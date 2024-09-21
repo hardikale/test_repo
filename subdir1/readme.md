@@ -1,2 +1,2 @@
-#learning git and github
-these repos are all for learning purpose
+# learning git and github
+this readme file is inside a directory
